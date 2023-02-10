@@ -1,0 +1,320 @@
+body {
+    text-align: center;
+    flex-wrap: wrap;
+    background-color: rgb(186, 129, 240);
+}
+
+header {
+    font-size: 20;
+    background-color: yellow;
+    border: 3px solid yellowgreen;
+    border-radius: 30;
+    width: 100%;
+    top: 0;
+    height: 50px;
+    text-align: center;
+    
+}
+.f {
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+
+
+.Beaver_table1 {
+    box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    float:left;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.Voprosa {
+    color: tomato;
+    text-align: 20px;
+}
+.ff {
+    width: 100px;
+    height: 100px;
+    border-radius: 30%;
+}
+
+.Beaver_table2 {
+   box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    float: right;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.oo {
+   text-align: center;
+}
+
+.fff {
+   width: 100px;
+    height: 100px;
+    border-radius: 30%; 
+}
+
+.Beaver_table3 {
+    box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: left;
+}
+.ffff {
+   width: 100px;
+    height: 100px;
+    border-radius: 30%; 
+}
+
+.Beaver_table4 {
+   box-shadow: 0 10px 15px 0 orange;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: right; 
+}
+
+.g {
+    width: 50px;
+    height: 50px;
+    float: right;
+    border-radius: 30%;
+}
+
+.Beaver_table4:hover{
+   box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: right; 
+    top: 10%;
+}
+
+.Beaver_table3:hover{
+    box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    margin-top: 20px;
+    float: left;
+    top: 10%;
+}
+
+
+.Beaver_table2:hover{
+   box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    float: right;
+    margin-right: 0%;
+    margin-left: 0%;
+    top: 10%;
+}
+
+
+.Beaver_table1:hover{
+    box-shadow: 0 10px 15px 0 red;
+    width: 120px;
+    height: 310px;
+    float:left;
+    margin-right: 0%;
+    margin-left: 0%;
+    top: 10%;
+}
+
+.Video {
+    border-radius: 5%;
+}
+
+.fg {
+    padding-top: 20px;
+    background-color: white;
+    width: 120px;
+    height: 20px;
+    text-align: center;
+    color: lime;
+}
+
+.df::after{
+.ghg {
+    opacity: 1;
+
+}
+.ghg::after {
+    opacity: 0;
+}
+}
+
+.Beaver_table1:hover {
+    width: 110px;
+    height: 110px;
+    border-radius: 33%;
+    transition-duration: 1s;
+}
+.asd {
+    box-shadow: 0 10px 15px 0 orange;
+}
+.Beaver_table2:hover {
+    width: 110px;
+    height: 110px;
+    border-radius: 33%;
+    transition-duration: 1s;
+}
+.Beaver_table3:hover {
+    width: 110px;
+    height: 110px;
+    border-radius: 33%;
+    transition-duration: 1s;
+}
+.Beaver_table4:hover {
+    width: 110px;
+    height: 110px;
+    border-radius: 33%;
+    transition-duration: 1s;
+}
+.fgfg {
+    color: deeppink;
+}
+
+.border{
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    height: 2px;
+    margin-bottom: 10px;
+    top: 2px;
+}
+
+.border1{
+    background-color: rgb(255, 0, 0);
+    width: 100%;
+    height: 2px;
+    margin-bottom: 10px;
+}
+.Video{
+    bottom: 4px;
+}
+.comment{
+    width: 80px;
+    height: 15px;
+    color: lightgreen;
+}
+
+.imgbook {
+    width: 200px;
+    height: 300px;
+    
+    
+    
+
+}
+.enthusiasm{
+    
+border: 2px solid yellowgreen;
+}
+
+
+
+.imgprogramm{
+    width: 210px;
+    height: 300px;
+    position: relative;
+
+}
+.programm{
+    float: right;
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.book2{
+    margin-left: 0%;
+    margin-right: 0%;
+    float: left;
+
+}
+
+.myprogramm{
+    
+    padding-top: 220px;
+}
+.html_css{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+}
+.c2{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+}
+.php{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+}
+.php_text, .c2_text, .html_css_text, python_text{
+    font-size: 20px;
+    position: absolute;
+    padding-left: 145px;
+}
+.python{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+}
+.python, .php, .c2, .html_css, .php_text, .c2_text, .html_css_text, python_text{
+    padding-top: 20px;
+}
+.hrefup{
+    width: 50px;
+    height: 50px;
+    
+    position: fixed;
+    right: 0%;
+    bottom: 0%;
+}
+
+.mykanal{
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    top: 50%;
+    text-decoration: none;
+}
+.imgbook, .imgprogramm, .python, .php, .c2, .html_css{
+    
+    mmargin-top: 20px;
+}
+
+.imgbook:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+
+.imgprogramm:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+.html_css:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+.c2:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+.php:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
+
+.python:hover{
+    box-shadow: -20px 10px 9px yellow;
+
+}
